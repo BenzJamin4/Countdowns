@@ -1,0 +1,6 @@
+{
+  "name": "Notebook Countdowns",
+  "description": "A lined notebook-style countdown tracker with sticky note forms, date/time range support, customizable time units, and JSON import/export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
